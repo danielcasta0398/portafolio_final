@@ -429,6 +429,82 @@ body{
 }
 
 
+#section-6 h1{
+    margin-left: 1.5rem;
+    margin-top: 1.5rem;
+}
+
+.bloques-contacto{
+    display: flex;
+    justify-content: space-around;
+}
+
+.bloques-contacto div{   
+    background-color: white;
+    border-radius: 4px;      
+   
+    box-shadow: 0px 5px 20px 3px #b9b9bb44;
+    
+}
+
+/* Inicia la Seccion de contacto*/
+#section-7{    
+    margin-top: 2rem;
+    width: 100%;
+    margin-bottom: 2rem;
+}
+
+#section-7 h1{
+    margin-left: 1.5rem;
+}
+ 
+
+#contacto{ 
+    width: 100%;
+    margin-top: 1rem;   
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+
+.telefono{    
+    width: 38%;
+    border-radius: 5px;
+    box-shadow: 0px 5px 20px 3px #b9b9bb44;
+}
+
+
+.telefono img {
+    padding: 1rem 0rem;
+    display: block;
+    margin: auto;
+}
+
+.telefono:hover{
+    background-color: #ececec;   
+   
+}
+
+.telefono h5{
+    text-align: center;
+    padding-bottom: 1rem;
+}
+
+.telefono p {
+    color: var(--parrafos);    
+    text-align: center;
+    font-size: 12px;
+    max-width: 100%;
+    padding-bottom: 1rem;
+    
+}
+.email-text{
+    word-wrap: break-word;
+}
+
+
+/*Finaliza la seccion de contacto*/
 
 @media (min-width: 1024px){
 

@@ -1,0 +1,21 @@
+<div class="vector-start">
+    <img src="/vectores/vector-start.svg" alt="">
+</div>   
+<div class="prueba">
+    <button id ="menu-principal"><img src="/icon/menu 1.svg" alt=""></button>    
+</div>
+
+<div id="menu" class="disable-menu">
+    <div class="fond-menu">            
+    </div>
+    
+    <nav  class="enable-menu">
+         <a class="home" href="#">Inicio</a>
+         <a href="#">Servicios</a>
+         <a href="#">Acerca de mi</a>
+         <a href="#section-3">Mis habilidades</a>
+         <a href="#">Mi portafolio</a>
+         <a href="#">Contacto</a>
+    </nav>
+    
+</div>
